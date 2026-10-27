@@ -10,7 +10,7 @@
 *Building my skills, one project at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-NOOROWAISSI-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOOROWAISSI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noor-owais-8b4ba232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-owais-8b4ba2322)
 
 </div>
 
